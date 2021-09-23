@@ -7,3 +7,4 @@
 - 📃 I am involved in Computer Aided Translation and Machine Translation projects
 - 👨‍🎓 I'm currently studying MA Computational Linguistics at the University of Wolverhampton
 - ☕🐍 I have extensive experience coding in JavaScript, Python, and Visual Basic for Applications
+- I participate in a monthly Minihack (<a href="https://www.meetup.com/mini-hack/">Meetup</a> | <a href="https://github.com/OnlineMiniHack/minihack">Meetup</a>) event
