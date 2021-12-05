@@ -13,12 +13,13 @@ Please see below for a small selection of some of the programming projects I hav
 
 # NLP-related Python projects
 
-I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computational-linguistics/">MA Computational Linguistics</a> course at the University of Wolverhampton, and am developing programs to solve natural language processing problems as covered in the course in order to develop my skills and further my understanding.
+I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computational-linguistics/">MA Computational Linguistics</a> course at the University of Wolverhampton and am developing programs to solve natural language processing problems as they are covered in the course in order to develop my skills and further my understanding.
 
 - <a href="/pos-sequence-finder">POS sequence finder</a> is a Windows desktop app that lets you find phrases in the Brown corpus that match given part of speech sequences.
 - <a href="title-caser">Title Caser</a> is a Google Chrome Extension that converts titles and headings in Wikipedia, BBC News, and the Guardian pages from sentence case into title case.
 - <a href="/elozza">ELOZZA</a> is a question-answering chatbot inspired by ELIZA.
+- <a href="/textonyms">textonyms</a> is a Windows command line program that lets you explore textonyms - pairs of words that can be input using the same key combinations on a mobile phone keypad.
 
 # Productivity tools for translators
 
-- <a href="/dom2doc">dom2doc</a> is a browser extension for Google Chrome and Mozilla Firefox that lets you download text from the DOM elements that you specify as a Word file.
+I have been developing a variety of applications, including productivity tools, to support translation work for several years. The majority of these projects are not featured on my GitHub as are the property of my previous and current employers, but <a href="/dom2doc">dom2doc</a> is a publicly-available browser extension for Google Chrome and Mozilla Firefox that lets you download text from the DOM elements that you specify as a Word file that is used by my current team.
