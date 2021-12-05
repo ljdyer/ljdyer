@@ -3,7 +3,7 @@
 
 I am a programmer and translator with several years' experience developing applications to support translation work and a deep understanding of current issues and trends in natural language processing. I am proficient in Python, JavaScript, and Visual Basic for Applications and have experience working in many other programming languages.
 
-Please see below for a small selection of some of the programming projects I have worked on in recent years.
+Please see below for a small selection of some of the programming projects I have worked on recently.
 
 # Fun stuff
 
