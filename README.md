@@ -10,3 +10,7 @@ I am a programmer and translator with several years' experience developing appli
 - <a href="\learning-with-remy">Learning with Remy</a> is a web-based counting game developed as a present for my nephew Remy (aged 5 at the time) for Christmas 2020.
 
 # NLP-related Python projects
+
+- <a href="/pos-sequence-finder">POS sequence finder</a> is a Windows desktop app that lets you find phrases in the Brown corpus that match given part of speech sequences.
+- <a href="title-caser">Title Caser</a> is a Google Chrome Extension that converts titles and headings in Wikipedia, BBC News, and the Guardian pages from sentence case into title case.
+- <a href="/elozza">ELOZZA is a question-answering chatbot inspired by ELIZA.</a>
