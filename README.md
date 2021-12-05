@@ -3,6 +3,8 @@
 
 I am a programmer and translator with several years' experience developing applications to support translation work and a deep understanding of current issues and trends in natural language processing. I am proficient in Python, JavaScript, and Visual Basic for Applications and have experience working in many other programming languages.
 
+Please see below for a small selection of some of the programming projects I have worked on in recent years.
+
 # Fun stuff
 
 - I am currently my posting solutions to <a href="\advent-of-code-2021">Advent of Code 2021</a> as I work on them every day up to 25th December.
@@ -11,6 +13,12 @@ I am a programmer and translator with several years' experience developing appli
 
 # NLP-related Python projects
 
+I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computational-linguistics/">MA Computational Linguistics</a> course at the University of Wolverhampton, and am developing programs to solve natural language processing problems as covered in the course in order to develop my skills and further my understanding.
+
 - <a href="/pos-sequence-finder">POS sequence finder</a> is a Windows desktop app that lets you find phrases in the Brown corpus that match given part of speech sequences.
 - <a href="title-caser">Title Caser</a> is a Google Chrome Extension that converts titles and headings in Wikipedia, BBC News, and the Guardian pages from sentence case into title case.
 - <a href="/elozza">ELOZZA</a> is a question-answering chatbot inspired by ELIZA.
+
+# Productivity tools for translators
+
+- <a href="/dom2doc">dom2doc</a> is a browser extension for Google Chrome and Mozilla Firefox that lets you download text from the DOM elements that you specify as a Word file.
