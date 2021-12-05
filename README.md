@@ -5,4 +5,8 @@ I am a programmer and translator with several years' experience developing appli
 
 # Fun stuff
 
-I am currently my posting solutions to <a href="\advent-of-code-2021">Advent of Code 2021</a> as I work on them every day up to 25th December!
+- I am currently my posting solutions to <a href="\advent-of-code-2021">Advent of Code 2021</a> as I work on them every day up to 25th December.
+- I participate in the monthly online 'Mini Hack' event and was winner of the first 6 month league.
+- <a href="\learning-with-remy">Learning with Remy</a> is a web-based counting game developed as a present for my nephew Remy (aged 5 at the time) for Christmas 2020.
+
+# NLP-related Python projects
