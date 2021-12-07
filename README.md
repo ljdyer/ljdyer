@@ -7,7 +7,7 @@ Please see below for a small selection of some of the programming projects I hav
 
 # Fun stuff
 
-- I am currently my posting solutions to <a href="https://github.com/ljdyer/advent-of-code-2021">Advent of Code 2021</a> as I work on them every day up to 25th December.
+- I am currently posting my solutions to <a href="https://github.com/ljdyer/advent-of-code-2021">Advent of Code 2021</a> as I work on the problems every day up to 25th December.
 - I participate in the monthly online <a href="https://github.com/OnlineMiniHack/minihack">Mini Hack</a> event and was winner of the first 6 month league.
 - <a href="https://github.com/ljdyer/learning-with-remy">Learning with Remy</a> is a web-based counting game developed as a present for my nephew Remy (aged 5 at the time) for Christmas 2020.
 
