@@ -7,7 +7,7 @@ Please see below for a small selection of some of the programming projects I hav
 
 # Fun stuff
 
-<table style="width:99%; text-align:center; border:none">
+<table style="width:99%; text-align:center; border:none; table-layout: fixed">
   <tr>
   <td style="width:33%"><a href="https://github.com/ljdyer/advent-of-code-2021"><img src="https://github.com/ljdyer/readme-img/blob/main/AoC.PNG"></img></a></td>
   <td style="width:33%"><a href="https://github.com/OnlineMiniHack/minihack"><img src="https://github.com/ljdyer/readme-img/blob/main/minihack.PNG"></img></a></td>
