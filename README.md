@@ -9,9 +9,9 @@ Please see below for a small selection of some of the programming projects I hav
 
 <table style="width:99%; text-align:center; border:none; table-layout: fixed">
   <colgroup>
-    <col style="width:33%">
-    <col style="width:33%">
-    <col style="width:33%">
+    <col style="max-width:33%">
+    <col style="max-width:33%">
+    <col style="max-width:33%">
   </colgroup>  
   <tbody>
   <tr>
