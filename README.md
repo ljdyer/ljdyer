@@ -7,10 +7,11 @@ Please see below for a small selection of some of the programming projects I hav
 
 # Fun stuff
 
-<table style="width:99%; text-align:center">
+<table style="width:99%; text-align:center; border:none">
   <tr>
   <td style="width:33%"><img src="https://github.com/ljdyer/readme-img/blob/main/AoC.PNG"></img></td>
   <td style="width:33%"><img src="https://github.com/ljdyer/readme-img/blob/main/minihack.PNG"></img></td>
+  <td style="width:33%"><img src="https://github.com/ljdyer/learning-with-remy/blob/master/readme-img/ghostbusters-game.PNG"></img></td>
   <td style="width:33%"><img src=""></img></td>
   </tr>
   <tr>
