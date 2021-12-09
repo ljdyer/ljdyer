@@ -12,7 +12,6 @@ Please see below for a small selection of some of the programming projects I hav
   <td style="width:33%"><img src="https://github.com/ljdyer/readme-img/blob/main/AoC.PNG"></img></td>
   <td style="width:33%"><img src="https://github.com/ljdyer/readme-img/blob/main/minihack.PNG"></img></td>
   <td style="width:33%"><img src="https://github.com/ljdyer/learning-with-remy/blob/master/readme-img/ghostbusters-game.PNG"></img></td>
-  <td style="width:33%"><img src=""></img></td>
   </tr>
   <tr>
   <td style="width:33%">I am currently posting my solutions to <a href="https://github.com/ljdyer/advent-of-code-2021">Advent of Code 2021</a> as I work on the problems every day up to 25th December.</td>
