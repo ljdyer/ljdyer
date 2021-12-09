@@ -7,7 +7,7 @@ Please see below for a small selection of some of the programming projects I hav
 
 # Fun stuff
 
-<table style="width:99%">
+<table style="width:99%; text-align:center">
   <tr>
   <td style="width:33%"></td>
   <td style="width:33%"></td>
