@@ -8,6 +8,12 @@ Please see below for a small selection of some of the programming projects I hav
 # Fun stuff
 
 <table style="width:99%; text-align:center; border:none; table-layout: fixed">
+  <colgroup>
+    <col style="width:40%">
+    <col style="width:30%">
+    <col style="width:30%">
+  </colgroup>  
+  <tbody>
   <tr>
   <td style="width:33%"><a href="https://github.com/ljdyer/advent-of-code-2021"><img src="https://github.com/ljdyer/readme-img/blob/main/AoC.PNG"></img></a></td>
   <td style="width:33%"><a href="https://github.com/OnlineMiniHack/minihack"><img src="https://github.com/ljdyer/readme-img/blob/main/minihack.PNG"></img></a></td>
@@ -18,6 +24,7 @@ Please see below for a small selection of some of the programming projects I hav
   <td style="width:33%">I participate in the monthly online <a href="https://github.com/OnlineMiniHack/minihack">Mini Hack</a> event and was winner of the first 6 month league.</td>
   <td style="width:33%"><a href="https://github.com/ljdyer/learning-with-remy">Learning with Remy</a> is a web-based counting game developed as a present for my nephew Remy (aged 5 at the time) for Christmas 2020.</td>
   </tr>
+  </tbody>
 </table>
 
 # NLP-related Python projects
