@@ -43,13 +43,13 @@ I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computa
   <td width="25%" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/pos-sequence-finder" width="100%"><img src="https://github.com/ljdyer/POS-sequence-finder/blob/main/app-screenshot.PNG"></a></img></td>
   <td width="25%" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/TitleCaser" width="100%"><img src="https://github.com/ljdyer/TitleCaser/blob/main/demo-img/bbc-python-after.png"></a></img></td>
   <td width="25%" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/elozza" width="100%"><img src="https://github.com/ljdyer/ELOZZA/blob/main/readme-img/screenshot.PNG"></a></img></td>
-  <td width="25%" style="width:25%; text-align:center"><a href="" width="100%"><img src=""></a></img></td>
+  <td width="25%" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/textonyms" width="100%"><img src="https://github.com/ljdyer/textonyms/blob/main/readme-img/option2.PNG"></a></img></td>
   </tr>
   <tr>
   <td align="center" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/pos-sequence-finder">POS sequence finder</a> is a Windows desktop app that lets you find phrases in the Brown corpus that match given part of speech sequences.</td>
   <td align="center" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/TitleCaser">Title Caser</a> is a Google Chrome Extension that converts titles and headings in Wikipedia, BBC News, and the Guardian pages from sentence case into title case.</td>
   <td align="center" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/elozza">ELOZZA</a> is a question-answering chatbot inspired by ELIZA.</td>
-  <td align="center" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/elozza"><a href="https://github.com/ljdyer/textonyms">textonyms</a> is a Windows command line program that lets you explore textonyms - pairs of words that can be input using the same key combinations on a mobile phone keypad.</td>
+  <td align="center" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/textonyms">textonyms</a> is a Windows command line program that lets you explore textonyms - pairs of words that can be input using the same key combinations on a mobile phone keypad.</td>
   </tr>
   </tbody>
 </table>
