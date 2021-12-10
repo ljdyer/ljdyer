@@ -47,7 +47,7 @@ I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computa
   </tr>
   <tr>
   <td align="center" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/pos-sequence-finder">POS sequence finder</a> is a Windows desktop app for finding phrases matching part of speech sequences.</td>
-  <td align="center" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/TitleCaser">Title Caser</a> is a Google Chrome Extension that converts titles and headings in Wikipedia, BBC News, and the Guardian pages from sentence case into title case.</td>
+  <td align="center" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/TitleCaser">Title Caser</a> is a Google Chrome Extension for converting website titles and headings into title case.</td>
   <td align="center" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/elozza">ELOZZA</a> is a question-answering chatbot inspired by ELIZA.</td>
   <td align="center" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/textonyms">textonyms</a> is a Windows command line program that lets you explore textonyms - pairs of words that can be input using the same key combinations on a mobile phone keypad.</td>
   </tr>
