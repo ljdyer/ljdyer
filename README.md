@@ -40,7 +40,7 @@ I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computa
   </colgroup>  
   <tbody>
   <tr>
-  <td width="25%" style="width:25%; text-align:center"><a href="" width="100%"><img src=""></a></img></td>
+  <td width="25%" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/pos-sequence-finder" width="100%"><img src="https://github.com/ljdyer/POS-sequence-finder/blob/main/app-screenshot.PNG"></a></img></td>
   <td width="25%" style="width:25%; text-align:center"><a href="" width="100%"><img src=""></a></img></td>
   <td width="25%" style="width:25%; text-align:center"><a href="" width="100%"><img src=""></a></img></td>
   <td width="25%" style="width:25%; text-align:center"><a href="" width="100%"><img src=""></a></img></td>
