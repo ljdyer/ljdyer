@@ -22,7 +22,7 @@ Please see below for a small selection of some of the programming projects I hav
   <tr>
   <td align="center" style="width:33%; text-align:center">I am currently posting my solutions to <a href="https://github.com/ljdyer/advent-of-code-2021">Advent of Code 2021</a> as I work on the problems every day up to 25th December.</td>
   <td align="center" style="width:33%; text-align:center">I participate in the monthly online <a href="https://github.com/OnlineMiniHack/minihack">Mini Hack</a> event and was winner of the first 6 month league.</td>
-  <td align="center" style="width:33%; text-align:center"><a href="https://github.com/ljdyer/learning-with-remy">Learning with Remy</a> is a web-based counting game developed as a present for my nephew Remy (aged 5 at the time) for Christmas 2020.</td>
+  <td align="center" style="width:33%; text-align:center"><a href="https://github.com/ljdyer/learning-with-remy">Learning with Remy</a> is a web-based counting game developed as a Christmas present for my nephew Remy.</td>
   </tr>
   </tbody>
 </table>
