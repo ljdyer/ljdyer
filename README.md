@@ -7,7 +7,7 @@ Please see below for a small selection of some of the programming projects I hav
 
 # Fun stuff
 
-<table width="75%" style="max-width:75%; text-align:center; border:none; table-layout: fixed; margin: auto;">
+<table width="75%" style="max-width:75%; text-align:center; border:none; table-layout: fixed; margin: 12.5%;">
   <colgroup>
     <col style="max-width:25%">
     <col style="max-width:25%">
