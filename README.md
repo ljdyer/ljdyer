@@ -39,7 +39,7 @@ I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computa
   </colgroup>  
   <tbody>
   <tr>
-  <td width="25%" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/speech-sound-visualiser" width="100%"><img src="https://github.com/ljdyer/speech-sound-visualiser/blob/main/app/readme-img/mel.PNG"></a></img></td>
+  <td width="25%" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/speech-sound-visualiser" width="100%"><img src="https://github.com/ljdyer/speech-sound-visualiser/blob/main/readme-img/mel.PNG"></a></img></td>
   <td width="25%" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/wer-calculator" width="100%"><img src="https://github.com/ljdyer/wer-calculator/blob/main/readme-img/levenshtein.png"></a></img></td>
   <td width="25%" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/pos-sequence-finder" width="100%"><img src="https://github.com/ljdyer/POS-sequence-finder/blob/main/readme-img/app-screenshot.PNG"></a></img></td>
   </tr>
