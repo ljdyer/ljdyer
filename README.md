@@ -69,10 +69,8 @@ I have been developing a variety of applications, including productivity tools, 
   <td width="25%" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/selection2doc" width="100%"><img src="https://github.com/ljdyer/selection2doc/blob/main/Chrome/public/icon128.png"></a></img></td>
   </tr>
   <tr>
-  <td style="border:none"></td>
   <td align="center" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/dom2doc">dom2doc</a> is a browser extension that lets download text from webpage elements that you specify as a Word file.</td>
   <td align="center" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/dom2doc">dom2doc</a> is a Google Chrome extension that lets you download selected text from webpages.</td>
-  <td style="border:none"></td>
   </tr>
   </tbody>
 </table>
