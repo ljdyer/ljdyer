@@ -58,7 +58,7 @@ I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computa
 
 I have been developing a variety of applications, including productivity tools, to support translation work for several years. The majority of these projects are not featured on my GitHub as they are the intellectual property of my previous and current employers.
 
-<table width = 50% style="max-width:50%; text-align:center; border:none; table-layout: fixed; margin: auto;">
+<table width=50% style="margin-left:25%; margin-right:25%; max-width:50%; text-align:center; border:none; table-layout: fixed; margin: auto;">
   <colgroup>
     <col style="max-width:25%">
     <col style="max-width:25%">
