@@ -62,15 +62,11 @@ I have been developing a variety of applications, including productivity tools, 
   <colgroup>
     <col style="max-width:25%">
     <col style="max-width:25%">
-    <col style="max-width:25%">
-    <col style="max-width:25%">
   </colgroup>  
   <tbody>
   <tr>
-    <td style="border:none"></td>
   <td width="25%" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/dom2doc" width="100%"><img src="https://github.com/ljdyer/dom2doc/blob/main/Chrome/public/icon128.png"></a></img></td>
   <td width="25%" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/selection2doc" width="100%"><img src="https://github.com/ljdyer/selection2doc/blob/main/Chrome/public/icon128.png"></a></img></td>
-  <td style="border:none"></td>
   </tr>
   <tr>
   <td style="border:none"></td>
