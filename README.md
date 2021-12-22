@@ -40,17 +40,26 @@ I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computa
   </colgroup>  
   <tbody>
   <tr>
+  <td width="25%" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/speech-sound-visualiser" width="100%"><img src="https://github.com/ljdyer/speech-sound-visualiser/blob/main/app/readme-img/mel.PNG"></a></img></td>
   <td width="25%" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/wer-calculator" width="100%"><img src="https://github.com/ljdyer/wer-calculator/blob/main/readme-img/levenshtein.png"></a></img></td>
   <td width="25%" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/pos-sequence-finder" width="100%"><img src="https://github.com/ljdyer/POS-sequence-finder/blob/main/readme-img/app-screenshot.PNG"></a></img></td>
-  <td width="25%" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/TitleCaser" width="100%"><img src="https://github.com/ljdyer/TitleCaser/blob/main/demo-img/bbc-python-after.png"></a></img></td>
-  <td width="25%" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/elozza" width="100%"><img src="https://github.com/ljdyer/ELOZZA/blob/main/readme-img/screenshot.PNG"></a></img></td>
   </tr>
   <tr>
+  <td align="center" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/speech-sound-visualiser">Speech Sound Visualiser</a> is a Heroku Flask app for visualising speech sounds.</td>
   <td align="center" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/wer-calculator">WER calculator</a> is a Heroku Flask app for calculating automatic speech recognition Word Error Rate (WER).</td>
   <td align="center" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/pos-sequence-finder">POS sequence finder</a> is a Windows desktop app for finding phrases matching part of speech sequences.</td>
-  <td align="center" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/TitleCaser">Title Caser</a> is a Google Chrome Extension for converting website titles and headings into title case.</td>
   <td align="center" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/elozza">ELOZZA</a> is a question-answering chatbot inspired by ELIZA.</td>
   </tr>
+  <tr>
+  <td width="25%" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/TitleCaser" width="100%"><img src="https://github.com/ljdyer/TitleCaser/blob/main/demo-img/bbc-python-after.png"></a></img></td>
+  <td width="25%" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/elozza" width="100%"><img src="https://github.com/ljdyer/ELOZZA/blob/main/readme-img/screenshot.PNG"></a></img></td>
+  <td></td>
+  </tr>
+  <tr>
+  <td align="center" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/TitleCaser">Title Caser</a> is a Google Chrome Extension for converting website titles and headings into title case.</td>
+  <td align="center" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/elozza">ELOZZA</a> is a question-answering chatbot inspired by ELIZA.</td>
+  <td></td>
+  </tr>  
   </tbody>
 </table>
 
