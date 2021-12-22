@@ -9,15 +9,15 @@ Please see below for a small selection of some of the programming projects I hav
 
 <table style="max-width:75%; text-align:center; border:none; table-layout: fixed; margin: auto;">
   <colgroup>
-    <col style="max-width:33%">
-    <col style="max-width:33%">
-    <col style="max-width:33%">
+    <col style="max-width:25%">
+    <col style="max-width:25%">
+    <col style="max-width:25%">
   </colgroup>  
   <tbody>
   <tr>
-  <td width="33%" style="width:33%; text-align:center"><a href="https://github.com/ljdyer/advent-of-code-2021" width="100%"><img src="https://github.com/ljdyer/readme-img/blob/main/AoC.jpg"></img></a></td>
-  <td width="33%" style="width:33%; text-align:center"><a href="https://github.com/OnlineMiniHack/minihack" width="100%"><img src="https://github.com/ljdyer/readme-img/blob/main/minihack.PNG"></img></a></td>
-  <td width="33%" style="width:33%; text-align:center"><a href="https://github.com/ljdyer/learning-with-remy" width="100%"><img src="https://github.com/ljdyer/learning-with-remy/blob/master/readme-img/ghostbusters-game.PNG"></a></img></td>
+  <td width="25%" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/advent-of-code-2021" width="100%"><img src="https://github.com/ljdyer/readme-img/blob/main/AoC.jpg"></img></a></td>
+  <td width="25%" style="width:25%; text-align:center"><a href="https://github.com/OnlineMiniHack/minihack" width="100%"><img src="https://github.com/ljdyer/readme-img/blob/main/minihack.PNG"></img></a></td>
+  <td width="25%" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/learning-with-remy" width="100%"><img src="https://github.com/ljdyer/learning-with-remy/blob/master/readme-img/ghostbusters-game.PNG"></a></img></td>
   </tr>
   <tr>
   <td align="center" style="width:33%; text-align:center">I am currently posting my solutions to <a href="https://github.com/ljdyer/advent-of-code-2021">Advent of Code 2021</a> as I work on the problems every day up to 25th December.</td>
