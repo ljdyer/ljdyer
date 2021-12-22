@@ -20,9 +20,9 @@ Please see below for a small selection of some of the programming projects I hav
   <td width="25%" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/learning-with-remy" width="100%"><img src="https://github.com/ljdyer/learning-with-remy/blob/master/readme-img/ghostbusters-game.PNG"></a></img></td>
   </tr>
   <tr>
-  <td align="center" style="width:33%; text-align:center">I am currently posting my solutions to <a href="https://github.com/ljdyer/advent-of-code-2021">Advent of Code 2021</a> as I work on the problems every day up to 25th December.</td>
-  <td align="center" style="width:33%; text-align:center">I participate in the monthly online <a href="https://github.com/OnlineMiniHack/minihack">Mini Hack</a> event and was winner of the first 6 month league.</td>
-  <td align="center" style="width:33%; text-align:center"><a href="https://github.com/ljdyer/learning-with-remy">Learning with Remy</a> is a web-based counting game developed as a Christmas present for my nephew Remy.</td>
+  <td align="center" style="width:25%; text-align:center">I am currently posting my solutions to <a href="https://github.com/ljdyer/advent-of-code-2021">Advent of Code 2021</a> as I work on the problems every day up to 25th December.</td>
+  <td align="center" style="width:25%; text-align:center">I participate in the monthly online <a href="https://github.com/OnlineMiniHack/minihack">Mini Hack</a> event and was winner of the first 6 month league.</td>
+  <td align="center" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/learning-with-remy">Learning with Remy</a> is a web-based counting game developed as a Christmas present for my nephew Remy.</td>
   </tr>
   </tbody>
 </table>
@@ -56,4 +56,21 @@ I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computa
 
 # Productivity tools for translators
 
-I have been developing a variety of applications, including productivity tools, to support translation work for several years. The majority of these projects are not featured on my GitHub as are the property of my previous and current employers, but <a href="https://github.com/ljdyer/dom2doc">dom2doc</a> is a publicly-available browser extension for Google Chrome and Mozilla Firefox that lets you download text from the DOM elements that you specify as a Word file that is used by my current team.
+I have been developing a variety of applications, including productivity tools, to support translation work for several years. The majority of these projects are not featured on my GitHub as they are the intellectual property of my previous and current employers.
+
+<table style="max-width:50%; text-align:center; border:none; table-layout: fixed; margin: auto;">
+  <colgroup>
+    <col style="max-width:25%">
+    <col style="max-width:25%">
+  </colgroup>  
+  <tbody>
+  <tr>
+  <td width="25%" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/dom2doc" width="100%"><img src="https://github.com/ljdyer/dom2doc/blob/master/chrome/public/icon128.png"></a></img></td>
+  <td width="25%" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/selection2doc" width="100%"><img src="https://github.com/ljdyer/dom2doc/blob/master/chrome/public/icon128.png"></a></img></td>
+  </tr>
+  <tr>
+  <td align="center" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/dom2doc">dom2doc</a> is a browser extension that lets download text from webpage elements that you specify as a Word file.</td>
+  <td align="center" style="width:25%; text-align:center"><a href="https://github.com/ljdyer/dom2doc">dom2doc</a> is a Google Chrome extension that lets download selected text from webpages.</td>
+  </tr>
+  </tbody>
+</table>
