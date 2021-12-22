@@ -67,9 +67,9 @@ I have been developing a variety of applications, including productivity tools, 
 
 <table style="width:99%; text-align:center; border:none; table-layout: fixed">
   <colgroup>
-    <col style="max-width:25%">
-    <col style="max-width:25%">
-    <col style="max-width:25%">
+    <col style="width:25%; text-align:center">
+    <col style="width:25%; text-align:center">
+    <col style="width:25%; text-align:center">
   </colgroup>  
   <tbody>
   <tr>
