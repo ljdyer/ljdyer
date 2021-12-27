@@ -27,7 +27,7 @@ Please see below for a small selection of some of the programming projects I hav
   </tbody>
 </table>
 
-# Computational Linguistics
+# Computational linguistics
 
 I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computational-linguistics/">MA Computational Linguistics</a> course at the University of Wolverhampton and have created several programs both as part of assignments and as mini projects to deepen my understanding of the course content.
 
