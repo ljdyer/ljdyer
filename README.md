@@ -16,7 +16,7 @@ Please see below for a small selection of some of the programming projects I hav
   <tbody>
     <tr>
       <td width="33%" style="width:33%; text-align:center"><a href="https://github.com/ljdyer/advent-of-code-2021" width="100%"><img src="https://github.com/ljdyer/readme-img/blob/main/AoC.jpg"></img></a></td>
-      <td width="33%" style="width:33%; text-align:center"><a href="https://github.com/ljdyer/ljdyer-minihack" width="100%"><img src="https://github.com/ljdyer/readme-img/blob/main/minihack.PNG"></img></a></td>
+      <td width="33%" style="width:33%; text-align:center"><a href="https://github.com/ljdyer/ljdyer-minihack" width="100%"><img src="https://github.com/ljdyer/ljdyer-minihack/blob/main/img/certificate.png"></img></a></td>
       <td width="33%" style="width:33%; text-align:center"><a href="https://github.com/ljdyer/learning-with-remy" width="100%"><img src="https://github.com/ljdyer/learning-with-remy/blob/master/readme-img/ghostbusters-game.PNG"></a></img></td>
     </tr>
     <tr>
