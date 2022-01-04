@@ -63,7 +63,6 @@ I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computa
     <td align="center" style="width:33%; text-align:center"><a href="https://github.com/ljdyer/TitleCaser">Title Caser</a> is a Google Chrome Extension for converting website titles and headings into title case.</td>
     <td align="center" style="width:33%; text-align:center"><a href="https://github.com/ljdyer/elozza">ELOZZA</a> is a question-answering chatbot inspired by ELIZA.</td>
     <td align="center" style="width:33%; text-align:center"><a href="https://github.com/ljdyer/textonyms">Textonyms</a> is a Windows command line program for exploring textonyms.</td>
-    <td></td>
   </tr>  
   </tbody>
 </table>
@@ -83,8 +82,8 @@ I have also developed a number of productivity and proofing-types tools in my cu
   <td align="center" style="width:33%; text-align:center"><a href="https://github.com/ljdyer/reference-checker" width="100%">
     <img style="margin:auto" src="https://github.com/ljdyer/reference-checker/blob/main/site/img/youtube-thumbnail.PNG"></a></img>
   </td>
-  <td align="center" style="width:33%; text-align:center"><a href="https://github.com/ljdyer/selection2doc" width="100%">
-    <img style="margin:auto" src="https://github.com/ljdyer/selection2doc/blob/main/Chrome/public/icon128.png"></a></img>
+  <td align="center" style="width:33%; text-align:center"><a href="https://github.com/ljdyer/dom2doc" width="100%">
+    <img style="margin:auto" src="https://github.com/ljdyer/dom2doc/blob/main/Chrome/public/icon128.png"></a></img>
   </td>
   <td align="center" style="width:33%; text-align:center"><a href="https://github.com/ljdyer/selection2doc" width="100%">
     <img style="margin:auto" src="https://github.com/ljdyer/selection2doc/blob/main/Chrome/public/icon128.png"></a></img>
