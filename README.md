@@ -90,7 +90,7 @@ I have also developed a number of productivity and proofing-types tools in my cu
   </td>
   </tr>
   <tr>
-    <td align="center" style="width:33%; text-align:center" width="33%"><a href="https://github.com/ljdyer/reference-checker">Reference-checker</a> is a browser based tool for checking list of references for University assignments.</td>
+    <td align="center" style="width:33%; text-align:center" width="33%"><a href="https://github.com/ljdyer/reference-checker">Reference checker</a> is a browser based tool for checking list of references for University assignments.</td>
     <td align="center" style="width:33%; text-align:center" width="33%"><a href="https://github.com/ljdyer/dom2doc">dom2doc</a> is a browser extension that lets download text from webpage elements that you specify as a Word file.</td>
     <td align="center" style="width:33%; text-align:center" width="33%"><a href="https://github.com/ljdyer/selection2doc">selection2doc</a> is a Google Chrome extension that lets you download selected text from webpages.</td>
   </tr>
