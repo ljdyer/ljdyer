@@ -1,7 +1,11 @@
 <!--
 **ljdyer/ljdyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I am a programmer and linguist with several years' experience developing applications to support translation work in the IT industry and a deep understanding of current issues and trends in natural language processing. I am proficient in Python, JavaScript, and Visual Basic for Applications, HTML, and CSS and have experience working in many other programming languages including MATLAB, Java, and PHP.
+I am a programmer and linguist with several years' experience developing applications to support translation work in the IT industry and a deep understanding of current issues and trends in natural language processing.
+
+<b>Proficient in:</b> Python, JavaScript, Visual Basic for Applications, HTML, CSS, and more
+
+<b>Experienced in:</b> MATLAB, Java, PHP, and more
 
 I'm on Stack Overflow!
 
