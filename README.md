@@ -1,7 +1,13 @@
 <!--
 **ljdyer/ljdyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I am a programmer and translator with several years' experience developing applications to support translation work and a deep understanding of current issues and trends in natural language processing. I am proficient in Python, JavaScript, and Visual Basic for Applications, HTML, and CSS and have experience working in many other programming languages including MATLAB, Java, and PHP.
+I am a programmer and linguist with several years' experience developing applications to support translation work in the IT industry and a deep understanding of current issues and trends in natural language processing.
+
+I am proficient in Python, JavaScript, Visual Basic for Applications, HTML, and CSS and have experience coding in Java, PHP, MATLAB, and Groovy.
+
+I'm on Stack Overflow!
+
+<a href="https://stackoverflow.com/users/17568469/ljdyer"><img src="https://stackexchange.com/users/flair/23521233.png" width="208" height="58" alt="profile for ljdyer on Stack Overflow" title="profile for ljdyer on Stack Overflow"></a>
 
 Please see below for a small selection of some of the programming projects I have worked on recently.
 
@@ -93,7 +99,7 @@ I have also developed a number of productivity and proofing-types tools in my cu
   </td>
   </tr>
   <tr>
-    <td align="center" style="width:33%; text-align:center" width="33%"><a href="https://github.com/ljdyer/reference-checker">Reference-checker</a> is a browser based tool for checking list of references for University assignments.</td>
+    <td align="center" style="width:33%; text-align:center" width="33%"><a href="https://github.com/ljdyer/reference-checker">Reference checker</a> is a browser based tool for checking list of references for University assignments.</td>
     <td align="center" style="width:33%; text-align:center" width="33%"><a href="https://github.com/ljdyer/dom2doc">dom2doc</a> is a browser extension that lets download text from webpage elements that you specify as a Word file.</td>
     <td align="center" style="width:33%; text-align:center" width="33%"><a href="https://github.com/ljdyer/selection2doc">selection2doc</a> is a Google Chrome extension that lets you download selected text from webpages.</td>
   </tr>
