@@ -24,14 +24,16 @@ Please see below for a small selection of some of the programming projects I hav
     <tr>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/advent-of-code-2021" width="100%"><img src="https://github.com/ljdyer/readme-img/blob/main/AoC.jpg"></img></a></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/ljdyer-minihack" width="100%"><img src="https://github.com/ljdyer/ljdyer-minihack/blob/main/img/certificate.png"></img></a></td>
+      <td width="25%" align="center"><a href="https://github.com/ljdyer/titanic" width="100%"><img src="https://github.com/ljdyer/titanic/blob/main/movie-img.jpg"></a></img>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/learning-with-remy" width="100%"><img src="https://github.com/ljdyer/learning-with-remy/blob/master/readme-img/ghostbusters-game.PNG"></a></img></td>
-      <td width="25%" align="center"><a href="https://github.com/ljdyer/titanic" width="100%"><img src="https://github.com/ljdyer/titanic/blob/main/movie-img.jpg"></a></img></td>
+      </td>
     </tr>
     <tr>
       <td align="center">I am in the process of solving <a href="https://github.com/ljdyer/advent-of-code-2021">Advent of Code 2021</a> using Python.</td>
       <td align="center">I participate in the monthly online <a href="https://github.com/ljdyer/ljdyer-minihack">Mini Hack</a> event and was winner of the first 6 month league.</td>
-      <td align="center"><a href="https://github.com/ljdyer/learning-with-remy">Learning with Remy</a> is a web-based counting game developed as a Christmas present for my nephew Remy.</td>
       <td align="center">I'm currently learning data science through the Kaggle <a href="https://github.com/ljdyer/titanic">Titanic</a> competition.</td>
+      <td align="center"><a href="https://github.com/ljdyer/learning-with-remy">Learning with Remy</a> is a web-based counting game developed as a Christmas present for my nephew Remy.</td>
+      
     </tr>
   </tbody>
 </table>
