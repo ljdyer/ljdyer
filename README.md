@@ -40,7 +40,7 @@ Please see below for a small selection of some of the programming projects I hav
 
 I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computational-linguistics/">MA Computational Linguistics</a> course at the University of Wolverhampton and have created several programs both as part of assignments and as mini projects to deepen my understanding of the course content.
 
-<table style="width:100%; text-align:center; border:none; table-layout: fixed">
+<table style="width:100%; text-align:center; border:none; table-layout: fixed, overflow:hidden">
   <colgroup>
     <col style="max-width:25%">
     <col style="max-width:25%">
@@ -69,7 +69,7 @@ I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computa
 
 I have also developed a number of productivity and proofing-types tools in my current and previous jobs which are not published here as they are the intellectual property of the respective companies.
 
-<table style="width:100%; text-align:center; border:none; table-layout: fixed">
+<table style="width:100%; text-align:center; border:none; table-layout: fixed, overflow:hidden">
   <colgroup>
     <col style="max-width:33%">
     <col style="max-width:33%">
