@@ -3,8 +3,9 @@
 
 I am a programmer and linguist with several years' experience developing applications to support translation work in the IT industry and a deep understanding of current issues and trends in natural language processing. I am proficient in Python, JavaScript, and Visual Basic for Applications, HTML, and CSS and have experience working in many other programming languages including MATLAB, Java, and PHP.
 
-I'm on Stack Overflow!<br>
-<a href="https://stackexchange.com/users/23521233"><img src="https://stackexchange.com/users/flair/23521233.png" width="208" height="58" alt="profile for ljdyer on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for ljdyer on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+I'm on Stack Overflow!
+
+<a href="https://stackoverflow.com/users/17568469/ljdyer"><img src="https://stackexchange.com/users/flair/23521233.png" width="208" height="58" alt="profile for ljdyer on Stack Overflow" title="profile for ljdyer on Stack Overflow"></a>
 
 Please see below for a small selection of some of the programming projects I have worked on recently.
 
