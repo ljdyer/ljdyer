@@ -25,7 +25,7 @@ Please see below for a small selection of some of the programming projects I hav
       <td width="25%" align="center"><a href="https://github.com/ljdyer/advent-of-code-2021" width="100%"><img src="https://github.com/ljdyer/readme-img/blob/main/AoC.jpg"></img></a></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/ljdyer-minihack" width="100%"><img src="https://github.com/ljdyer/ljdyer-minihack/blob/main/img/certificate.png"></img></a></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/learning-with-remy" width="100%"><img src="https://github.com/ljdyer/learning-with-remy/blob/master/readme-img/ghostbusters-game.PNG"></a></img></td>
-      <td width="25%" align="center"><a href="https://github.com/ljdyer/titanic" width="100%"><img src="https://github.com/ljdyer/titanic/blob/master/movie-img.jpg"></a></img></td>
+      <td width="25%" align="center"><a href="https://github.com/ljdyer/titanic" width="100%"><img src="https://github.com/ljdyer/titanic/blob/main/movie-img.jpg"></a></img></td>
     </tr>
     <tr>
       <td align="center">I am in the process of solving <a href="https://github.com/ljdyer/advent-of-code-2021">Advent of Code 2021</a> using Python.</td>
