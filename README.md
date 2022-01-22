@@ -3,7 +3,7 @@
 
 I am a programmer and linguist with several years' experience developing applications to support translation work in the IT industry and a deep understanding of current issues and trends in natural language processing.
 
-I am proficient in Python, JavaScript, Visual Basic for Applications, HTML, and CSS and have experience coding in Java, PHP, MATLAB, and Groovy.
+I am proficient in Python, JavaScript, Visual Basic for Applications, HTML, and CSS and have experience coding in R, Java, PHP, MATLAB, and Groovy.
 
 I'm on Stack Overflow!
 
