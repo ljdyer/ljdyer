@@ -29,7 +29,7 @@ Please see below for a small selection of some of the programming projects I hav
       </td>
     </tr>
     <tr>
-      <td align="center">I am in the process of solving <a href="https://github.com/ljdyer/advent-of-code-2021">Advent of Code 2021</a> using Python.</td>
+      <td align="center">I completed <a href="https://github.com/ljdyer/advent-of-code-2021">Advent of Code 2021</a> using Python.</td>
       <td align="center">I participate in the monthly online <a href="https://github.com/ljdyer/ljdyer-minihack">Mini Hack</a> event and was winner of the first 6 month league.</td>
       <td align="center">I'm currently learning data science through the Kaggle <a href="https://github.com/ljdyer/titanic">Titanic</a> competition.</td>
       <td align="center"><a href="https://github.com/ljdyer/learning-with-remy">Learning with Remy</a> is a web-based counting game developed as a Christmas present for my nephew Remy.</td>
