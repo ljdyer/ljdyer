@@ -68,7 +68,7 @@ I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computa
 
 # Productivity and proofing tools
 
-I have also developed a number of productivity and proofing-types tools in my current and previous jobs which are not published here as they are the intellectual property of the respective companies.
+I have also developed a number of productivity and proofing-type tools in my current and previous jobs which are not published here as they are the intellectual property of the respective companies.
 
 <table style="width:100%; text-align:center; border:none; table-layout: fixed, overflow:hidden">
   <colgroup>
