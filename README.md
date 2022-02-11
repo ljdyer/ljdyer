@@ -34,21 +34,6 @@ Please see below for a small selection of some of the programming projects I hav
       <td align="center">I'm currently learning data science through the Kaggle <a href="https://github.com/ljdyer/titanic">Titanic</a> competition.</td>
       <td align="center"><a href="https://github.com/ljdyer/learning-with-remy">Learning with Remy</a> is a web-based counting game developed as a Christmas present for my nephew Remy.</td>
     </tr>
-  </tbody>
-</table>
-
-# Computational linguistics
-
-I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computational-linguistics/">MA Computational Linguistics</a> course at the University of Wolverhampton and have created several programs both as part of assignments and as mini projects to deepen my understanding of the course content.
-
-<table style="width:100%; text-align:center; border:none; table-layout: fixed, overflow:hidden">
-  <colgroup>
-    <col style="max-width:25%">
-    <col style="max-width:25%">
-    <col style="max-width:25%">
-    <col style="max-width:25%">
-  </colgroup>    
-  <tbody>
     <tr>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/speech-sound-visualiser" width="100%"><img src="https://github.com/ljdyer/speech-sound-visualiser/blob/main/readme-img/mel.PNG"></a></img></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/wer-calculator" width="100%"><img src="https://github.com/ljdyer/wer-calculator/blob/main/readme-img/levenshtein.png"></a></img></td>
@@ -63,8 +48,24 @@ I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computa
       <td align="center"><a href="https://github.com/ljdyer/pos-sequence-finder">POS sequence finder</a> is a Windows desktop app for finding phrases matching part of speech sequences.</td>
       <td align="center"><a href="https://github.com/ljdyer/elozza">ELOZZA</a> is a question-answering chatbot inspired by ELIZA.</td>
     </tr>
-  <tbody>
+  </tbody>
 </table>
+
+# Computational linguistics
+
+I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computational-linguistics/">MA Computational Linguistics</a> course at the University of Wolverhampton and have created several programs both as part of assignments and as mini projects to deepen my understanding of the course content.
+
+<!-- <table style="width:100%; text-align:center; border:none; table-layout: fixed, overflow:hidden">
+  <colgroup>
+    <col style="max-width:25%">
+    <col style="max-width:25%">
+    <col style="max-width:25%">
+    <col style="max-width:25%">
+  </colgroup>    
+  <tbody>
+
+  <tbody>
+</table> -->
 
 # Productivity and proofing tools
 
