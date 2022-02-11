@@ -48,6 +48,22 @@ Please see below for a small selection of some of the programming projects I hav
       <td align="center"><a href="https://github.com/ljdyer/pos-sequence-finder">POS sequence finder</a> is a Windows desktop app for finding phrases matching part of speech sequences.</td>
       <td align="center"><a href="https://github.com/ljdyer/elozza">ELOZZA</a> is a question-answering chatbot inspired by ELIZA.</td>
     </tr>
+    <tr>
+  <td align="center" style="width:25%; text-align:center" width="33%"><a href="https://github.com/ljdyer/reference-checker" width="100%">
+    <img style="margin:auto" src="https://github.com/ljdyer/reference-checker/blob/main/site/img/youtube-thumbnail.PNG"></a></img>
+  </td>
+  <td align="center" style="width:25%; text-align:center" width="33%"><a href="https://github.com/ljdyer/dom2doc" width="100%">
+    <img style="margin:auto" src="https://github.com/ljdyer/dom2doc/blob/main/Chrome/public/icon128.png"></a></img>
+  </td>
+  <td align="center" style="width:25%; text-align:center" width="33%"><a href="https://github.com/ljdyer/selection2doc" width="100%">
+    <img style="margin:auto" src="https://github.com/ljdyer/selection2doc/blob/main/Chrome/public/icon128.png"></a></img>
+  </td>
+  </tr>
+  <tr>
+    <td align="center" style="width:25%; text-align:center" width="33%"><a href="https://github.com/ljdyer/reference-checker">Reference checker</a> is a browser based tool for checking list of references for University assignments.</td>
+    <td align="center" style="width:25%; text-align:center" width="33%"><a href="https://github.com/ljdyer/dom2doc">dom2doc</a> is a browser extension that lets download text from webpage elements that you specify as a Word file.</td>
+    <td align="center" style="width:25%; text-align:center" width="33%"><a href="https://github.com/ljdyer/selection2doc">selection2doc</a> is a Google Chrome extension that lets you download selected text from webpages.</td>
+  </tr>
   </tbody>
 </table>
 
@@ -67,7 +83,7 @@ I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computa
   <tbody>
 </table> -->
 
-# Productivity and proofing tools
+<!-- # Productivity and proofing tools
 
 I have also developed a number of productivity and proofing-type tools in my current and previous jobs which are not published here as they are the intellectual property of the respective companies.
 
@@ -78,21 +94,6 @@ I have also developed a number of productivity and proofing-type tools in my cur
     <col style="max-width:33%">
   </colgroup> 
   <tbody>
-  <tr>
-  <td align="center" style="width:33%; text-align:center" width="33%"><a href="https://github.com/ljdyer/reference-checker" width="100%">
-    <img style="margin:auto" src="https://github.com/ljdyer/reference-checker/blob/main/site/img/youtube-thumbnail.PNG"></a></img>
-  </td>
-  <td align="center" style="width:33%; text-align:center" width="33%"><a href="https://github.com/ljdyer/dom2doc" width="100%">
-    <img style="margin:auto" src="https://github.com/ljdyer/dom2doc/blob/main/Chrome/public/icon128.png"></a></img>
-  </td>
-  <td align="center" style="width:33%; text-align:center" width="33%"><a href="https://github.com/ljdyer/selection2doc" width="100%">
-    <img style="margin:auto" src="https://github.com/ljdyer/selection2doc/blob/main/Chrome/public/icon128.png"></a></img>
-  </td>
-  </tr>
-  <tr>
-    <td align="center" style="width:33%; text-align:center" width="33%"><a href="https://github.com/ljdyer/reference-checker">Reference checker</a> is a browser based tool for checking list of references for University assignments.</td>
-    <td align="center" style="width:33%; text-align:center" width="33%"><a href="https://github.com/ljdyer/dom2doc">dom2doc</a> is a browser extension that lets download text from webpage elements that you specify as a Word file.</td>
-    <td align="center" style="width:33%; text-align:center" width="33%"><a href="https://github.com/ljdyer/selection2doc">selection2doc</a> is a Google Chrome extension that lets you download selected text from webpages.</td>
-  </tr>
+
   </tbody>
-</table>
+</table> -->
