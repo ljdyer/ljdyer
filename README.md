@@ -1,17 +1,15 @@
 <!--
 **ljdyer/ljdyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I am a programmer and linguist with several years' experience developing applications to support translation work in the IT industry and a deep understanding of current issues and trends in natural language processing.
+I am a programmer and linguist with several years' experience developing applications to support translation work in the IT industry. I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computational-linguistics/">MA Computational Linguistics</a> course at the University of Wolverhampton, and some of the projects below are related to content I have studied during the course. Projects I have worked on during my past and previous jobs are not included in this public GitHub for intellectual property reasons, but some of the productivity tools below are currently used by teams of professional translators.
 
-I am proficient in Python, JavaScript, Visual Basic for Applications, HTML, and CSS and have experience coding in R, Java, PHP, MATLAB, and Groovy.
+My main interests are natural language processing, machine learning, and web development. I am proficient in Python, JavaScript, Visual Basic for Applications, HTML, and CSS and have experience coding in R, Java, PHP, MATLAB, and Groovy.
 
 I'm on Stack Overflow!
 
 <a href="https://stackoverflow.com/users/17568469/ljdyer"><img src="https://stackexchange.com/users/flair/23521233.png" width="208" height="58" alt="profile for ljdyer on Stack Overflow" title="profile for ljdyer on Stack Overflow"></a>
 
-Please see below for a small selection of some of the programming projects I have worked on recently.
-
-# Fun stuff
+# Overview of projects
 
 <table style="width:100%; text-align:center; border:none; table-layout: fixed">
   <colgroup>
@@ -49,55 +47,20 @@ Please see below for a small selection of some of the programming projects I hav
       <td align="center"><a href="https://github.com/ljdyer/elozza">ELOZZA</a> is a question-answering chatbot inspired by ELIZA.</td>
     </tr>
     <tr>
-  <td align="center" style="width:25%; text-align:center" width="33%"><a href="https://github.com/ljdyer/reference-checker" width="100%">
-    <img style="margin:auto" src="https://github.com/ljdyer/reference-checker/blob/main/site/img/youtube-thumbnail.PNG"></a></img>
-  </td>
-  <td align="center" style="width:25%; text-align:center" width="33%"><a href="https://github.com/ljdyer/dom2doc" width="100%">
-    <img style="margin:auto" src="https://github.com/ljdyer/dom2doc/blob/main/Chrome/public/icon128.png"></a></img>
-  </td>
-  <td align="center" style="width:25%; text-align:center" width="33%"><a href="https://github.com/ljdyer/selection2doc" width="100%">
-    <img style="margin:auto" src="https://github.com/ljdyer/selection2doc/blob/main/Chrome/public/icon128.png"></a></img>
-  </td>
-  <td align="center" style="width:25%; text-align:center" width="33%"><a href="https://github.com/ljdyer/selection2doc" width="100%">
-    &nbsp
-  </td>
-  </tr>
-  <tr>
-    <td align="center" style="width:25%; text-align:center" width="33%"><a href="https://github.com/ljdyer/reference-checker">Reference checker</a> is a browser based tool for checking list of references for University assignments.</td>
-    <td align="center" style="width:25%; text-align:center" width="33%"><a href="https://github.com/ljdyer/dom2doc">dom2doc</a> is a browser extension that lets download text from webpage elements that you specify as a Word file.</td>
-    <td align="center" style="width:25%; text-align:center" width="33%"><a href="https://github.com/ljdyer/selection2doc">selection2doc</a> is a Google Chrome extension that lets you download selected text from webpages.</td>
-  <td align="center" style="width:25%; text-align:center" width="33%">&nbsp</td>
-  </tr>
+      <td width="25%" align="center"><a href="https://github.com/ljdyer/reference-checker" width="100%"><img src="https://github.com/ljdyer/reference-checker/blob/main/site/img/youtube-thumbnail.PNG"></a></img></td>
+      <td width="25%" align="center"><a href="https://github.com/ljdyer/dom2doc" width="100%"><img src="https://github.com/ljdyer/dom2doc/blob/main/Chrome/public/icon128.png"></a></img></td>
+      <td width="25%" align="center"><a href="https://github.com/ljdyer/selection2doc" width="100%"><img src="https://github.com/ljdyer/selection2doc/blob/main/Chrome/public/icon128.png"></a></img></td>
+      <td width="25%" align="center">&nbsp</a></img></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/ljdyer/reference-checker">Reference checker</a> is a browser based tool for checking list of references for University assignments.</td>
+      <td align="center"><a href="https://github.com/ljdyer/dom2doc">dom2doc</a> is a browser extension that lets download text from webpage elements that you specify as a Word file.</td>
+      <td align="center"><a href="https://github.com/ljdyer/selection2doc">selection2doc</a> is a Google Chrome extension that lets you download selected text from webpages.</td>
+      <td align="center">&nbsp</td>
+    </tr>
   </tbody>
 </table>
 
 # Computational linguistics
 
 I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computational-linguistics/">MA Computational Linguistics</a> course at the University of Wolverhampton and have created several programs both as part of assignments and as mini projects to deepen my understanding of the course content.
-
-<!-- <table style="width:100%; text-align:center; border:none; table-layout: fixed, overflow:hidden">
-  <colgroup>
-    <col style="max-width:25%">
-    <col style="max-width:25%">
-    <col style="max-width:25%">
-    <col style="max-width:25%">
-  </colgroup>    
-  <tbody>
-
-  <tbody>
-</table> -->
-
-<!-- # Productivity and proofing tools
-
-I have also developed a number of productivity and proofing-type tools in my current and previous jobs which are not published here as they are the intellectual property of the respective companies.
-
-<table style="width:100%; text-align:center; border:none; table-layout: fixed, overflow:hidden">
-  <colgroup>
-    <col style="max-width:33%">
-    <col style="max-width:33%">
-    <col style="max-width:33%">
-  </colgroup> 
-  <tbody>
-
-  </tbody>
-</table> -->
