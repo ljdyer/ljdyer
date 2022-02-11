@@ -63,7 +63,7 @@ I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computa
       <td align="center"><a href="https://github.com/ljdyer/pos-sequence-finder">POS sequence finder</a> is a Windows desktop app for finding phrases matching part of speech sequences.</td>
       <td align="center"><a href="https://github.com/ljdyer/elozza">ELOZZA</a> is a question-answering chatbot inspired by ELIZA.</td>
     </tr>
-  <tr>
+  <tbody>
 </table>
 
 # Productivity and proofing tools
