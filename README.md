@@ -58,11 +58,15 @@ Please see below for a small selection of some of the programming projects I hav
   <td align="center" style="width:25%; text-align:center" width="33%"><a href="https://github.com/ljdyer/selection2doc" width="100%">
     <img style="margin:auto" src="https://github.com/ljdyer/selection2doc/blob/main/Chrome/public/icon128.png"></a></img>
   </td>
+  <td align="center" style="width:25%; text-align:center" width="33%"><a href="https://github.com/ljdyer/selection2doc" width="100%">
+    &nbsp
+  </td>
   </tr>
   <tr>
     <td align="center" style="width:25%; text-align:center" width="33%"><a href="https://github.com/ljdyer/reference-checker">Reference checker</a> is a browser based tool for checking list of references for University assignments.</td>
     <td align="center" style="width:25%; text-align:center" width="33%"><a href="https://github.com/ljdyer/dom2doc">dom2doc</a> is a browser extension that lets download text from webpage elements that you specify as a Word file.</td>
     <td align="center" style="width:25%; text-align:center" width="33%"><a href="https://github.com/ljdyer/selection2doc">selection2doc</a> is a Google Chrome extension that lets you download selected text from webpages.</td>
+  <td align="center" style="width:25%; text-align:center" width="33%">&nbsp</td>
   </tr>
   </tbody>
 </table>
