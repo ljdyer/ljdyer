@@ -9,7 +9,7 @@ I'm on Stack Overflow!
 
 <a href="https://stackoverflow.com/users/17568469/ljdyer"><img src="https://stackexchange.com/users/flair/23521233.png" width="208" height="58" alt="profile for ljdyer on Stack Overflow" title="profile for ljdyer on Stack Overflow"></a>
 
-# Overview of projects
+# Projects
 
 <table style="width:100%; text-align:center; border:none; table-layout: fixed">
   <colgroup>
@@ -54,13 +54,9 @@ I'm on Stack Overflow!
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/ljdyer/reference-checker">Reference checker</a> is a browser based tool for checking list of references for University assignments.</td>
-      <td align="center"><a href="https://github.com/ljdyer/dom2doc">dom2doc</a> is a browser extension that lets download text from webpage elements that you specify as a Word file.</td>
+      <td align="center"><a href="https://github.com/ljdyer/dom2doc">dom2doc</a> is a browser extension that lets you download text from webpage elements that you specify as a Word file.</td>
       <td align="center"><a href="https://github.com/ljdyer/selection2doc">selection2doc</a> is a Google Chrome extension that lets you download selected text from webpages.</td>
       <td align="center">&nbsp</td>
     </tr>
   </tbody>
 </table>
-
-# Computational linguistics
-
-I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computational-linguistics/">MA Computational Linguistics</a> course at the University of Wolverhampton and have created several programs both as part of assignments and as mini projects to deepen my understanding of the course content.
