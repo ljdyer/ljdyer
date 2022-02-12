@@ -47,7 +47,6 @@ My main technical interests are natural language processing, machine learning, a
       <td width="25%" align="center"><a href="https://github.com/ljdyer/reference-checker" width="100%"><img src="https://github.com/ljdyer/reference-checker/blob/main/site/img/youtube-thumbnail.PNG"></a></img></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/dom2doc" width="100%"><img src="https://github.com/ljdyer/dom2doc/blob/main/Chrome/public/icon128.png"></a></img></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/selection2doc" width="100%"><img src="https://github.com/ljdyer/selection2doc/blob/main/Chrome/public/icon128.png"></a></img></td>
-      <td width="25%" align="center">&nbsp</a></img></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/learning-with-remy" width="100%"><img src="https://github.com/ljdyer/learning-with-remy/blob/master/readme-img/ghostbusters-game.PNG"></a></img></td>
     </tr>
     <tr>
