@@ -21,13 +21,13 @@ My main technical interests are natural language processing, machine learning, a
       <td width="25%" align="center"><a href="https://github.com/ljdyer/advent-of-code-2021" width="100%"><img src="https://github.com/ljdyer/readme-img/blob/main/AoC.jpg"></img></a></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/ljdyer-minihack" width="100%"><img src="https://github.com/ljdyer/ljdyer-minihack/blob/main/img/certificate.png"></img></a></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/news-classifier" width="100%"><img src="https://github.com/ljdyer/news-classifier/blob/main/readme-img/news-classifier-screenshot.PNG"></a></img>
-      <td width="25%" align="center"><a href="https://github.com/ljdyer/titanic" width="100%"><img src="https://github.com/ljdyer/titanic/blob/main/movie-img.jpg"></a></img>
+      <td width="25%" align="center"><a href="https://github.com/ljdyer/oshiete-corpus-getter" width="100%"><img src="https://github.com/ljdyer/oshiete-corpus-getter/blob/main/readme-img/oshiete.jpg"></a></img>
     </tr>
     <tr>
       <td align="center">I completed <a href="https://github.com/ljdyer/advent-of-code-2021">Advent of Code 2021</a> using Python.</td>
       <td align="center">I participate in the monthly online <a href="https://github.com/ljdyer/ljdyer-minihack">Mini Hack</a> event and was winner of the first 6 month league.</td>
       <td align="center"><a href="https://github.com/ljdyer/news-classifier">News classifier</a> is a web app that enables users to try out a Naive Bayes text classification model.</td>
-      <td align="center">I'm currently honing my data science skills through the Kaggle <a href="https://github.com/ljdyer/titanic">Titanic</a> competition.</td>
+      <td align="center"><a href="https://github.com/ljdyer/oshiete-corpus-getter">Oshiete corpus getter</a> is a toolkit for collating a multi-million word diachronic corpus of Japanese.</td>
     </tr>
     <tr>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/speech-sound-visualiser" width="100%"><img src="https://github.com/ljdyer/speech-sound-visualiser/blob/main/readme-img/mel.PNG"></a></img></td>
@@ -54,6 +54,12 @@ My main technical interests are natural language processing, machine learning, a
       <td align="center"><a href="https://github.com/ljdyer/dom2doc">dom2doc</a> is a browser extension that lets you download text from webpage elements that you specify as a Word file.</td>
       <td align="center"><a href="https://github.com/ljdyer/selection2doc">selection2doc</a> is a Google Chrome extension that lets you download selected text from webpages.</td>
       <td align="center"><a href="https://github.com/ljdyer/learning-with-remy">Learning with Remy</a> is a web-based counting game developed as a Christmas present for my nephew Remy.</td>
+    </tr>
+    <tr>
+      <td width="25%" align="center"><a href="https://github.com/ljdyer/titanic" width="100%"><img src="https://github.com/ljdyer/titanic/blob/main/movie-img.jpg"></a></img>
+    </tr>
+    <tr>
+      <td align="center">I'm currently honing my data science skills through the Kaggle <a href="https://github.com/ljdyer/titanic">Titanic</a> competition.</td>
     </tr>
   </tbody>
 </table>
