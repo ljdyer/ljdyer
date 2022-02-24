@@ -55,10 +55,12 @@ My main technical interests are natural language processing, machine learning, a
       <td align="center"><a href="https://github.com/ljdyer/selection2doc">selection2doc</a> is a Google Chrome extension that lets you download selected text from webpages.</td>
     </tr>
     <tr>
+      <td width="25%" align="center"><a href="https://github.com/ljdyer/george-bday-wordle" width="100%"><img src="https://github.com/ljdyer/george-bday-wordle/blob/master/readme-img/bday-message.PNG"></a></img></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/learning-with-remy" width="100%"><img src="https://github.com/ljdyer/learning-with-remy/blob/master/readme-img/ghostbusters-game.PNG"></a></img></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/titanic" width="100%"><img src="https://github.com/ljdyer/titanic/blob/main/movie-img.jpg"></a></img>
     </tr>
     <tr>
+      <td align="center"><a href="https://github.com/ljdyer/george-bday-wordle">George's Birthday Wordle</a> is a birthday message in the form of a Wordle puzzle that I made for my brother George</td>
       <td align="center"><a href="https://github.com/ljdyer/learning-with-remy">Learning with Remy</a> is a web-based counting game developed as a Christmas present for my nephew Remy.</td>
       <td align="center">I've been honing my data science skills through the Kaggle <a href="https://github.com/ljdyer/titanic">Titanic</a> competition.</td>
     </tr>
