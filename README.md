@@ -33,7 +33,7 @@ My main technical interests are natural language processing, machine learning, a
       <td width="25%" align="center"><a href="https://github.com/ljdyer/oshiete-corpus-getter" width="100%"><img src="https://github.com/ljdyer/oshiete-corpus-getter/blob/main/readme-img/oshiete_new.png"></a></img>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/speech-sound-visualiser" width="100%"><img src="https://github.com/ljdyer/speech-sound-visualiser/blob/main/readme-img/mel-new.PNG"></a></img></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/wer-calculator" width="100%"><img src="https://github.com/ljdyer/wer-calculator/blob/main/readme-img/detected-new.PNG"></a></img></td>
-      <td width="25%" align="center"><a href="https://github.com/ljdyer/pos-sequence-finder" width="100%"><img src="https://github.com/ljdyer/POS-sequence-finder/blob/main/readme-img/app-screenshot.PNG"></a></img></td>
+      <td width="25%" align="center"><a href="https://github.com/ljdyer/pos-sequence-finder" width="100%"><img src="https://github.com/ljdyer/POS-sequence-finder/blob/main/readme-img/app-screenshot-new.PNG"></a></img></td>
       </td>
     </tr>
     <tr>
