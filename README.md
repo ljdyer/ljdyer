@@ -57,7 +57,7 @@ My main technical interests are natural language processing, machine learning, a
     <tr>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/george-bday-wordle" width="100%"><img src="https://github.com/ljdyer/george-bday-wordle/blob/main/readme-img/bday-message-new.PNG"></a></img></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/learning-with-remy" width="100%"><img src="https://github.com/ljdyer/learning-with-remy/blob/master/readme-img/ghostbusters-game-new.PNG"></a></img></td>
-      <td width="25%" align="center"><a href="https://github.com/ljdyer/titanic" width="100%"><img src="https://github.com/ljdyer/titanic/blob/main/movie-img.jpg"></a></img>
+      <td width="25%" align="center"><a href="https://github.com/ljdyer/titanic" width="100%"><img src="https://github.com/ljdyer/titanic/blob/main/movie-img-new.jpg"></a></img>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/ljdyer/george-bday-wordle">George's Birthday Wordle</a> is a birthday message in the form of a Wordle puzzle that I made for my brother George</td>
