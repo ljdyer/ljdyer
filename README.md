@@ -55,7 +55,7 @@ My main technical interests are natural language processing, machine learning, a
       <td align="center"><a href="https://github.com/ljdyer/selection2doc">selection2doc</a> is a Google Chrome extension that lets you download selected text from webpages.</td>
     </tr>
     <tr>
-      <td width="25%" align="center"><a href="https://github.com/ljdyer/george-bday-wordle" width="100%"><img src="https://github.com/ljdyer/george-bday-wordle/blob/main/readme-img/bday-message.PNG"></a></img></td>
+      <td width="25%" align="center"><a href="https://github.com/ljdyer/george-bday-wordle" width="100%"><img src="https://github.com/ljdyer/george-bday-wordle/blob/main/readme-img/bday-message-new.PNG"></a></img></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/learning-with-remy" width="100%"><img src="https://github.com/ljdyer/learning-with-remy/blob/master/readme-img/ghostbusters-game.PNG"></a></img></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/titanic" width="100%"><img src="https://github.com/ljdyer/titanic/blob/main/movie-img.jpg"></a></img>
     </tr>
