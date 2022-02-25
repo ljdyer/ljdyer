@@ -18,7 +18,7 @@ My main technical interests are natural language processing, machine learning, a
   </colgroup>  
   <tbody>
     <tr>
-      <td width="25%" align="center"><a href="https://github.com/ljdyer/advent-of-code-2021" width="100%"><img src="https://github.com/ljdyer/readme-img/blob/main/AoC.jpg"></img></a></td>
+      <td width="25%" align="center"><a href="https://github.com/ljdyer/advent-of-code-2021" width="100%"><img src="https://github.com/ljdyer/advent-of-code-2021/blob/main/readme-img/AoC.jpg"></img></a></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/ljdyer-minihack" width="100%"><img src="https://github.com/ljdyer/ljdyer-minihack/blob/main/img/certificate.png"></img></a></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/wordle-wizard" width="100%"><img src="https://github.com/ljdyer/wordle-wizard/blob/main/readme-img/readme-img.PNG"></a></img>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/news-classifier" width="100%"><img src="https://github.com/ljdyer/news-classifier/blob/main/readme-img/news-classifier-screenshot.PNG"></a></img>
