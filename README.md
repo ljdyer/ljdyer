@@ -54,10 +54,16 @@ My main technical interests are natural language processing, machine learning, a
       <td align="center"><a href="https://github.com/ljdyer/selection2doc">selection2doc</a> is a Google Chrome extension that lets you download selected text from webpages.</td>
     </tr>
     <tr>
+<<<<<<< HEAD
       <td width="25%" align="center"><a href="https://github.com/ljdyer/george-bday-wordle" width="100%"><img src="https://github.com/ljdyer/george-bday-wordle/blob/main/readme-img/bday-message.PNG"></img></a></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/learning-with-remy" width="100%"><img src="https://github.com/ljdyer/learning-with-remy/blob/master/readme-img/ghostbusters-game.PNG"></img></a></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/titanic" width="100%"><img src="https://github.com/ljdyer/titanic/blob/main/movie-img.jpg"></img></a></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/readme-maker" width="100%"><img src="https://github.com/ljdyer/titanic/blob/main/movie-img.jpg"></img></a></td>
+=======
+      <td width="25%" align="center"><a href="https://github.com/ljdyer/george-bday-wordle" width="100%"><img src="https://github.com/ljdyer/george-bday-wordle/blob/main/readme-img/bday-message-new.PNG"></a></img></td>
+      <td width="25%" align="center"><a href="https://github.com/ljdyer/learning-with-remy" width="100%"><img src="https://github.com/ljdyer/learning-with-remy/blob/master/readme-img/ghostbusters-game-new.PNG"></a></img></td>
+      <td width="25%" align="center"><a href="https://github.com/ljdyer/titanic" width="100%"><img src="https://github.com/ljdyer/titanic/blob/main/movie-img.jpg"></a></img>
+>>>>>>> parent of 78d063b (Update README.md)
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/ljdyer/george-bday-wordle">George's Birthday Wordle</a> is a birthday message in the form of a Wordle puzzle that I made for my brother George</td>
