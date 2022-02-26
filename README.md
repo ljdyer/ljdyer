@@ -32,7 +32,7 @@ My main technical interests are natural language processing, machine learning, a
     <tr>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/oshiete-corpus-getter" width="100%"><img src="https://github.com/ljdyer/oshiete-corpus-getter/blob/main/readme-img/oshiete_new.png"></img></a></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/speech-sound-visualiser" width="100%"><img src="https://github.com/ljdyer/speech-sound-visualiser/blob/main/readme-img/mel-new.PNG"></img></a></td>
-      <td width="25%" align="center"><a href="https://github.com/ljdyer/wer-calculator" width="100%"><img src="https://github.com/ljdyer/wer-calculator/blob/main/readme-img/levenshtein-new.png"></img></a></td>
+      <td width="25%" align="center"><a href="https://github.com/ljdyer/wer-calculator" width="100%"><img src="https://github.com/ljdyer/wer-calculator/blob/main/readme-img/detected-new.PNG"></img></a></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/pos-sequence-finder" width="100%"><img src="https://github.com/ljdyer/POS-sequence-finder/blob/main/readme-img/app-screenshot-new.PNG"></img></a></td>
     </tr>
     <tr>
@@ -43,7 +43,7 @@ My main technical interests are natural language processing, machine learning, a
     </tr>
     <tr>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/elozza" width="100%"><img src="https://github.com/ljdyer/ELOZZA/blob/main/readme-img/screenshot-new.PNG"></img></a></td>
-      <td width="25%" align="center"><a href="https://github.com/ljdyer/reference-checker" width="100%"><img src="https://github.com/ljdyer/reference-checker/blob/main/site/img/youtube-thumbnail-new.PNG"></img></a></td>
+      <td width="25%" align="center"><a href="https://github.com/ljdyer/reference-checker" width="100%"><img src="https://github.com/ljdyer/reference-checker/blob/main/site/img/youtube-thumbnail-new.png"></img></a></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/dom2doc" width="100%"><img src="https://github.com/ljdyer/dom2doc/blob/main/readme-img/icon-new.png"></img></a></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/selection2doc" width="100%"><img src="https://github.com/ljdyer/selection2doc/blob/main/readme-img/icon.png"></img></a></td>
     </tr>
