@@ -68,9 +68,14 @@ My main technical interests are natural language processing, machine learning, a
     <tr>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/readme-maker" width="100%"><img src="https://github.com/ljdyer/readme-maker/blob/main/readme-img.png"></img></a></td>
       <td>&nbsp</td>
+      <td>&nbsp</td>
+      <td>&nbsp</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/ljdyer/readme-maker">README Maker</a> is the template renderer used to create the HTML table in this README.</td>
+      <td>&nbsp</td>
+      <td>&nbsp</td>
+      <td>&nbsp</td>
     </tr>
   </tbody>
 </table>
