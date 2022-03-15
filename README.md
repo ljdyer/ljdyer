@@ -66,16 +66,16 @@ My main technical interests are natural language processing, machine learning, a
       <td align="center">I've been honing my data science skills through the Kaggle <a href="https://github.com/ljdyer/titanic">Titanic</a> competition.</td>
     </tr>
     <tr>
+      <td width="25%" align="center"><a href="https://github.com/ljdyer/capital-test" width="100%"><img src="https://github.com/ljdyer/capital-test/blob/master/readme-img.PNG"></img></a></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/readme-maker" width="100%"><img src="https://github.com/ljdyer/readme-maker/blob/main/readme-img.png"></img></a></td>
-      <td>&nbsp</td>
-      <td>&nbsp</td>
-      <td>&nbsp</td>
+      <td>%nbsp</td>
+      <td>%nbsp</td>
     </tr>
     <tr>
+      <td align="center"><a href="https://github.com/ljdyer/capital-test">The Ultimate Capital Country Test</a> is a quiz to test your knowledge of the world's capitals.</td>
       <td align="center"><a href="https://github.com/ljdyer/readme-maker">README Maker</a> is the template renderer used to create the HTML table in this README.</td>
-      <td>&nbsp</td>
-      <td>&nbsp</td>
-      <td>&nbsp</td>
+      <td>%nbsp</td>
+      <td>%nbsp</td>
     </tr>
   </tbody>
 </table>
