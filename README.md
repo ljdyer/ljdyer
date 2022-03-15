@@ -30,39 +30,45 @@ My main technical interests are natural language processing, machine learning, a
       <td align="center"><a href="https://github.com/ljdyer/news-classifier">News classifier</a> is a web app that enables users to try out a Naive Bayes text classification model.</td>
     </tr>
     <tr>
+      <td width="25%" align="center"><a href="https://github.com/ljdyer/spanish-paper-reviews" width="100%"><img src="https://github.com/ljdyer/spanish-paper-reviews/blob/main/readme-img.PNG"></img></a></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/oshiete-corpus-getter" width="100%"><img src="https://github.com/ljdyer/oshiete-corpus-getter/blob/main/readme-img/oshiete_new.png"></img></a></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/speech-sound-visualiser" width="100%"><img src="https://github.com/ljdyer/speech-sound-visualiser/blob/main/readme-img/mel-new.PNG"></img></a></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/wer-calculator" width="100%"><img src="https://github.com/ljdyer/wer-calculator/blob/main/readme-img/detected-new.PNG"></img></a></td>
-      <td width="25%" align="center"><a href="https://github.com/ljdyer/pos-sequence-finder" width="100%"><img src="https://github.com/ljdyer/POS-sequence-finder/blob/main/readme-img/app-screenshot-new.PNG"></img></a></td>
     </tr>
     <tr>
+      <td align="center"><a href="https://github.com/ljdyer/spanish-paper-reviews">Spanish paper reviews</a> is a web app that enables users to try out a linear regression polarity prediction model.</td>
       <td align="center"><a href="https://github.com/ljdyer/oshiete-corpus-getter">Oshiete corpus getter</a> is a toolkit for collating a multi-million word diachronic corpus of Japanese.</td>
       <td align="center"><a href="https://github.com/ljdyer/speech-sound-visualiser">Speech sound visualiser</a> is a Heroku Flask app for visualising speech sounds.</td>
       <td align="center"><a href="https://github.com/ljdyer/wer-calculator">WER calculator</a> is a Heroku Flask app for calculating automatic speech recognition Word Error Rate (WER).</td>
-      <td align="center"><a href="https://github.com/ljdyer/pos-sequence-finder">POS sequence finder</a> is a Windows desktop app for finding phrases matching part of speech sequences.</td>
     </tr>
     <tr>
+      <td width="25%" align="center"><a href="https://github.com/ljdyer/pos-sequence-finder" width="100%"><img src="https://github.com/ljdyer/POS-sequence-finder/blob/main/readme-img/app-screenshot-new.PNG"></img></a></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/elozza" width="100%"><img src="https://github.com/ljdyer/ELOZZA/blob/main/readme-img/screenshot-new.PNG"></img></a></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/reference-checker" width="100%"><img src="https://github.com/ljdyer/reference-checker/blob/main/site/img/youtube-thumbnail-new.png"></img></a></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/dom2doc" width="100%"><img src="https://github.com/ljdyer/dom2doc/blob/main/readme-img/icon-new.png"></img></a></td>
-      <td width="25%" align="center"><a href="https://github.com/ljdyer/selection2doc" width="100%"><img src="https://github.com/ljdyer/selection2doc/blob/main/readme-img/icon.png"></img></a></td>
     </tr>
     <tr>
+      <td align="center"><a href="https://github.com/ljdyer/pos-sequence-finder">POS sequence finder</a> is a Windows desktop app for finding phrases matching part of speech sequences.</td>
       <td align="center"><a href="https://github.com/ljdyer/elozza">ELOZZA</a> is a question-answering chatbot inspired by ELIZA.</td>
       <td align="center"><a href="https://github.com/ljdyer/reference-checker">Reference checker</a> is a browser based tool for checking list of references for University assignments.</td>
       <td align="center"><a href="https://github.com/ljdyer/dom2doc">dom2doc</a> is a browser extension that lets you download text from webpage elements that you specify as a Word file.</td>
-      <td align="center"><a href="https://github.com/ljdyer/selection2doc">selection2doc</a> is a Google Chrome extension that lets you download selected text from webpages.</td>
     </tr>
     <tr>
+      <td width="25%" align="center"><a href="https://github.com/ljdyer/selection2doc" width="100%"><img src="https://github.com/ljdyer/selection2doc/blob/main/readme-img/icon.png"></img></a></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/george-bday-wordle" width="100%"><img src="https://github.com/ljdyer/george-bday-wordle/blob/main/readme-img/bday-message-new.PNG"></img></a></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/learning-with-remy" width="100%"><img src="https://github.com/ljdyer/learning-with-remy/blob/master/readme-img/ghostbusters-game-new.PNG"></img></a></td>
       <td width="25%" align="center"><a href="https://github.com/ljdyer/titanic" width="100%"><img src="https://github.com/ljdyer/titanic/blob/main/movie-img-new.jpg"></img></a></td>
-      <td width="25%" align="center"><a href="https://github.com/ljdyer/readme-maker" width="100%"><img src="https://github.com/ljdyer/readme-maker/blob/main/readme-img.png"></img></a></td>
     </tr>
     <tr>
+      <td align="center"><a href="https://github.com/ljdyer/selection2doc">selection2doc</a> is a Google Chrome extension that lets you download selected text from webpages.</td>
       <td align="center"><a href="https://github.com/ljdyer/george-bday-wordle">George's Birthday Wordle</a> is a birthday message in the form of a Wordle puzzle that I made for my brother George</td>
       <td align="center"><a href="https://github.com/ljdyer/learning-with-remy">Learning with Remy</a> is a web-based counting game developed as a Christmas present for my nephew Remy.</td>
       <td align="center">I've been honing my data science skills through the Kaggle <a href="https://github.com/ljdyer/titanic">Titanic</a> competition.</td>
+    </tr>
+    <tr>
+      <td width="25%" align="center"><a href="https://github.com/ljdyer/readme-maker" width="100%"><img src="https://github.com/ljdyer/readme-maker/blob/main/readme-img.png"></img></a></td>
+    </tr>
+    <tr>
       <td align="center"><a href="https://github.com/ljdyer/readme-maker">README Maker</a> is the template renderer used to create the HTML table in this README.</td>
     </tr>
   </tbody>
