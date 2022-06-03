@@ -1,9 +1,15 @@
 <!--
 **ljdyer/ljdyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I am a programmer and linguist with several years' experience developing applications to support translation work in the IT industry. I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computational-linguistics/">MA Computational Linguistics</a> course at the University of Wolverhampton, and some of the projects below are related to content I have studied during the course. Projects I have worked on as an employee of my current and previous companies are not included in this public GitHub for intellectual property reasons, but some of the productivity tools below are currently used by teams of professional translators.
+I am a programmer and linguist with several years' experience developing applications to support translation efforts in the IT industry.
 
-My main technical interests are natural language processing, machine learning, and computer-aided translation. I am proficient in Python, JavaScript, Visual Basic for Applications, HTML, and CSS and have experience coding in R, Java, PHP, MATLAB, and Groovy.
+My main technical interests are natural language processing and machine/computer-aided translation. I combine my expertise in these fields with a working knowledge of web and software development to provide practical translation solutions to organisations and teams.
+
+I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computational-linguistics/">MA Computational Linguistics</a> course at the University of Wolverhampton. Some of the projects included in this GitHub were completed as part of the coursework for this course.
+
+This GitHub does not include projects that I worked on as an employee of my current and previous companies for intellectual property reasons, but it does include some tools that I began working on in my free time that are now used by teams of professional translators.
+
+I am proficient in Python, JavaScript, Visual Basic for Applications, HTML, and CSS and also have experience in R, Java, PHP, MATLAB, and Groovy.
 
 <a href="https://stackoverflow.com/users/17568469/ljdyer"><img src="https://stackexchange.com/users/flair/23521233.png" width="208" height="58" alt="I'm active on Stack Exchange!" title="I'm active on Stack Exchange!"></a>
 
