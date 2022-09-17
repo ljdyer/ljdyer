@@ -3,9 +3,9 @@
 
 I am a programmer and linguist with several years' experience developing applications to support translation efforts in the IT industry.
 
-My main technical interests are natural language processing and machine/computer-aided translation. I combine my expertise in these fields with a working knowledge of web and software development to provide practical translation solutions to organisations working in multiple languages.
+My main technical interests are natural language processing and machine/computer-aided translation. I combine my expertise in these fields with knowledge of web and software development to provide practical translation solutions to organisations working in multiple languages.
 
-I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computational-linguistics/">MA Computational Linguistics</a> course at the University of Wolverhampton. Some of the projects included in this GitHub were completed as part of the coursework for this course.
+I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computational-linguistics/">MA Computational Linguistics</a> course at the University of Wolverhampton. Some of the projects included in this GitHub were created while working on assignments for this course.
 
 This GitHub does not include projects that I worked on as an employee of my current and previous companies for intellectual property reasons, but it does include some tools that I began working on in my free time that are now used by teams of professional translators.
 
