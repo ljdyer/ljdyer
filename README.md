@@ -9,8 +9,6 @@ I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computa
 
 This GitHub does not include projects that I worked on as an employee of my current and previous companies for intellectual property reasons, but it does include some tools that I began working on in my free time that are now used by teams of professional translators.
 
-I am proficient in Python, JavaScript, Visual Basic for Applications, HTML, and CSS and also have experience in R, Java, PHP, MATLAB, and Groovy.
-
 <a href="https://stackoverflow.com/users/17568469/ljdyer"><img src="https://stackexchange.com/users/flair/23521233.png" width="208" height="58" alt="I'm active on Stack Exchange!" title="I'm active on Stack Exchange!"></a>
 
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=008000)
