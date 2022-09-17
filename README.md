@@ -13,14 +13,14 @@ I am proficient in Python, JavaScript, Visual Basic for Applications, HTML, and 
 
 <a href="https://stackoverflow.com/users/17568469/ljdyer"><img src="https://stackexchange.com/users/flair/23521233.png" width="208" height="58" alt="I'm active on Stack Exchange!" title="I'm active on Stack Exchange!"></a>
 
-![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=008000)
-![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4CBB17)
-![](https://img.shields.io/badge/code-VBA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4CBB17)
-![](https://img.shields.io/badge/code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4CBB17)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=008000)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4CBB17)
+![](https://img.shields.io/badge/VBA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4CBB17)
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4CBB17)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4CBB17)
-![](https://img.shields.io/badge/code-R-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=90EE90)
-![](https://img.shields.io/badge/code-PHP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=90EE90)
-![](https://img.shields.io/badge/code-MATLAB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=90EE90)
+![](https://img.shields.io/badge/R-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=90EE90)
+![](https://img.shields.io/badge/PHP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=90EE90)
+![](https://img.shields.io/badge/MATLAB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=90EE90)
 
 # Projects
 
