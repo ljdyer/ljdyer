@@ -13,6 +13,8 @@ I am proficient in Python, JavaScript, Visual Basic for Applications, HTML, and 
 
 <a href="https://stackoverflow.com/users/17568469/ljdyer"><img src="https://stackexchange.com/users/flair/23521233.png" width="208" height="58" alt="I'm active on Stack Exchange!" title="I'm active on Stack Exchange!"></a>
 
+![](https://img.shields.io/badge/<code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 # Projects
 
 <table style="width:100%; text-align:center; border:none; table-layout: fixed">
