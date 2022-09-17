@@ -18,9 +18,9 @@ I am proficient in Python, JavaScript, Visual Basic for Applications, HTML, and 
 ![](https://img.shields.io/badge/code-VBA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4CBB17)
 ![](https://img.shields.io/badge/code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=90EE90)
 ![](https://img.shields.io/badge/code-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=90EE90)
-![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=90EE90)
-![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=90EE90)
-![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=90EE90)
+![](https://img.shields.io/badge/code-R-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=AFE1AF)
+![](https://img.shields.io/badge/code-PHP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=AFE1AF)
+![](https://img.shields.io/badge/code-MATLAB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=AFE1AF)
 
 # Projects
 
