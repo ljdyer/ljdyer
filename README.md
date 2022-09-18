@@ -1,7 +1,7 @@
 <!--
 **ljdyer/ljdyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<img src="https://github.com/ljdyer/ljdyer/blob/master/banner.png" alt="Laurence Dyer - programmer, linguist, translation technology specialist">
+<img src="https://github.com/ljdyer/ljdyer/blob/main/banner.png" alt="Laurence Dyer - programmer, linguist, translation technology specialist">
 
 I am a programmer and linguist with several years' experience developing applications to support translation efforts in the IT industry.
 
