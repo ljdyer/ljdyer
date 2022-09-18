@@ -13,6 +13,8 @@ This GitHub does not include projects that I worked on as an employee of my curr
 
 <a href="https://stackoverflow.com/users/17568469/ljdyer"><img src="https://stackexchange.com/users/flair/23521233.png" width="208" height="58" alt="I'm active on Stack Exchange!" title="I'm active on Stack Exchange!"></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljdyer)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=008000)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4CBB17)
 ![](https://img.shields.io/badge/VBA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=4CBB17)
