@@ -3,7 +3,7 @@
 
 <img src="https://github.com/ljdyer/ljdyer/blob/main/banner.png" alt="Laurence Dyer - programmer, linguist, translation technology specialist">
 
-I am a programmer and linguist with several years' experience developing applications to support translation efforts in the IT industry.
+I am a programmer and linguist with several years' experience developing applications to support translation and localization efforts in the IT industry.
 
 My main technical interests are natural language processing and machine/computer-aided translation. I combine my expertise in these fields with knowledge of web and software development to provide practical translation solutions to organisations working in multiple languages.
 
