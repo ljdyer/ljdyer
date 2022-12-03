@@ -12,8 +12,6 @@ I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computa
 <a href="https://stackoverflow.com/users/17568469/ljdyer"><img src="https://stackexchange.com/users/flair/23521233.png" width="208" height="58" alt="I'm active on Stack Exchange!" title="I'm active on Stack Exchange!"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/ljdyer/Advent-Of-Code-2022"><img src="aoc2022.png" height="58" alt="I'm doing Advent of Code again in 2022!" title="I'm doing Advent of Code again in 2022!"></a>
 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljdyer)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=008000)
