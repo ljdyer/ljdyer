@@ -10,7 +10,7 @@ My main technical interests are natural language processing and machine/computer
 I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computational-linguistics/">MA Computational Linguistics</a> course at the University of Wolverhampton.
 
 <a href="https://stackoverflow.com/users/17568469/ljdyer"><img src="https://stackexchange.com/users/flair/23521233.png" width="208" height="58" alt="I'm active on Stack Exchange!" title="I'm active on Stack Exchange!"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ljdyer/Advent-Of-Code-2022"><img src="advent-of-code-2022.png" height="58" alt="I'm doing Advent of Code again in 2022!" title="I'm doing Advent of Code again in 2022!"></a>
+<a href="https://github.com/ljdyer/Advent-Of-Code-2022"><img src="aoc2022.png" height="58" alt="I'm doing Advent of Code again in 2022!" title="I'm doing Advent of Code again in 2022!"></a>
 
 
 
