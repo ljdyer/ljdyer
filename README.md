@@ -3,11 +3,7 @@
 
 <img src="https://github.com/ljdyer/ljdyer/blob/main/banner.png" alt="Laurence Dyer - programmer, linguist, translation technology specialist">
 
-I am a programmer and linguist with several years' experience developing applications to support translation and localization efforts in the IT industry.
-
-My main technical interests are natural language processing and machine/computer-aided translation. I combine my expertise in these fields with knowledge of web and software development to provide practical translation solutions to organisations working in multiple languages.
-
-I am currently enrolled in the <a href="https://www.wlv.ac.uk/courses/ma-computational-linguistics/">MA Computational Linguistics</a> course at the University of Wolverhampton.
+I am a highly skilled engineer with several years' experience using Python to build and deploy effective solutions in a fast-moving corporate environment at large, public-facing organisations. I am proficient in a wide range of Python libraries and am equally comfortable building and deploying bespoke web applications, managing complex end-to-end data pipelines, or developing and training state-of-the-art machine learning models. As a solo developer working on non-technical teams, I have developed the skills necessary to manage and coordinate all aspects of the software development lifecycle from requirement definition and project planning through to UAT and deployment.
 
 <a href="https://stackoverflow.com/users/17568469/ljdyer"><img src="https://stackexchange.com/users/flair/23521233.png" width="208" height="58" alt="I'm active on Stack Exchange!" title="I'm active on Stack Exchange!"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/ljdyer/Advent-Of-Code-2022"><img src="aoc2022.png" height="58" alt="I'm doing Advent of Code again in 2022!" title="I'm doing Advent of Code again in 2022!"></a>
